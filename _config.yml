@@ -15,19 +15,8 @@ title: NLP Researcher
 darkmode: never
 
 # Social links
-# twitter_username: facespics
 github_username:  seungukyu
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
 linkedin_username: seungukyu
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 # additional_links:
@@ -57,7 +46,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "<span style='font-size:0.9em;'>From Ground Trust to Truth Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</span>"
+        title: "<span style='font-size:0.85em;'>From Ground Trust to Truth Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</span>"
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: Paper Website
         quote: >
@@ -65,7 +54,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
       - layout: top-middle
-        title: Delving into Multilingual Ethical Bias The MSQAD with Statistical Hypothesis Tests for Large Language Models
+        title: "<span style='font-size:0.85em;'>Delving into Multilingual Ethical Bias The MSQAD with Statistical Hypothesis Tests for Large Language Models</span>"
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: Paper Website
         quote: >
@@ -73,7 +62,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
       - layout: top-middle
-        title: Making Sense of Korean Sentences A Comprehensive Evaluation of LLMs through KoSEnd Dataset
+        title: "<span style='font-size:0.85em;'>Making Sense of Korean Sentences A Comprehensive Evaluation of LLMs through KoSEnd Dataset</span>"
         link: https://aclanthology.org/2025.acl-srw.29/
         link_text: Paper Website
         quote: >
@@ -81,7 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
       - layout: top-middle
-        title: Don't be a Fool Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks
+        title: "<span style='font-size:0.85em;'>Don't be a Fool Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks</span>"
         link: https://aclanthology.org/2024.findings-naacl.219/
         link_text: Paper Website
         quote: >
