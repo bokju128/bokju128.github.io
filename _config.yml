@@ -53,13 +53,13 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Delving into Multilingual Ethical Bias The MSQAD with Statistical Hypothesis Tests for Large Language Models
+  - title:   
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Delving into Multilingual Ethical Bias The MSQAD with Statistical Hypothesis Tests for Large Language Models
+        link: https://aclanthology.org/2025.acl-long.15/
+        link_text: Paper Website
         # additional_links:
           # - title:  sproogen/modern-resume-theme
           #   icon: fab fa-github
