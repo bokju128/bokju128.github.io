@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/seunguk_selfie
 
 # Content configuration version
 version: 2
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Seunguk Yu
 title: NLP Researcher
-# email: brett.h@email.co.uk
+email: seungukyu@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -87,7 +87,7 @@ content:
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
         caption: March 2025 - Present
-        quote: >
+        quote: |
           중앙대학교 AI대학원 소속 박사 과정
           Intelligent Information Processing Lab, Department of Artificial Intelligence, Chung-Ang University
         # description: | # this will include new lines to allow paragraphs
@@ -98,7 +98,7 @@ content:
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
         caption: March 2023 - February 2025
-        quote: >
+        quote: |
           중앙대학교 AI대학원 석사 졸업
           Intelligent Information Processing Lab, Department of Artificial Intelligence, Chung-Ang University
         # description: | # this will include new lines to allow paragraphs
@@ -109,7 +109,7 @@ content:
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
         caption: March 2019 - February 2023
-        quote: >
+        quote: |
           중앙대학교 소프트웨어학부 졸업
           교내 인공지능 학회 CUAI 3-4기 운영 (Chung-ang University Artificial Intelligence)
           Department of Computer Science & Software Engineering, Chung-Ang University
@@ -120,28 +120,33 @@ content:
   - title: 
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+      - layout: center
+        title: Teaching Assistant
+        caption: July 2025
+        # sub_title: BSc Computer Science
+        quote: |
+          KAIST IDEC 자연어처리 과목 실습 조교 근무
+      - layout: center
+        title: Teaching Assistant
+        caption: April 2023 - September 2023
+        # sub_title: BSc Computer Science
+        quote: |
+          중앙대학교 군AI 교육 과정 실습 조교 근무
+      - layout: center
+        title: Teaching Coach
+        caption: May, October, and November 2021
+        # sub_title: BSc Computer Science
+        quote: |
+          주식회사 앨리스 AI 트랙 4기 및 5기 자연어처리 멘토로서 강의 진행
+        
+         
+  - title: 
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Workout
+      - Overwatch
+      - Collecting [ShinChan](https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A7%B1%EA%B5%AC)
 
 # Footer
 footer_show_references: true
