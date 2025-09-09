@@ -57,18 +57,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: From Ground Trust to Truth Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse
+        link: https://aclanthology.org/2025.acl-long.15/
+        link_text: Paper Website
+        quote: >
+          EMNLP 2025 findings (first author)
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+      - layout: top-middle
         title: Delving into Multilingual Ethical Bias The MSQAD with Statistical Hypothesis Tests for Large Language Models
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: Paper Website
-        # additional_links:
-          # - title:  sproogen/modern-resume-theme
-          #   icon: fab fa-github
-          #   url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          ACL 2025 main conference, first author
+          ACL 2025 main conference (first author)
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+      - layout: top-middle
+        title: Making Sense of Korean Sentences A Comprehensive Evaluation of LLMs through KoSEnd Dataset
+        link: https://aclanthology.org/2025.acl-srw.29/
+        link_text: Paper Website
+        quote: >
+          ACL 2025 student research workshop (first author)
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+      - layout: top-middle
+        title: Don't be a Fool Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks
+        link: https://aclanthology.org/2024.findings-naacl.219/
+        link_text: Paper Website
+        quote: >
+          NAACL 2024 findings (first author)
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
