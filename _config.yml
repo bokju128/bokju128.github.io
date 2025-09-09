@@ -34,12 +34,14 @@ linkedin_username: seungukyu
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# - about_title: 
+- about_title: 
 about_profile_image: images/seunguk_selfie.jpg
 about_content: | # this will include new lines to allow paragraphs
   자연어처리를 연구하는 박사 과정 유승욱입니다. Offensive Language 및 LLM Safety를 주로 수행해왔으며, 한국어를 사용하는 어떠한 자연어처리 태스크든 모두 큰 관심을 가지고 있습니다.
 
   I'm Seunguk Yu, a Ph.D. student working on natural language processing. My main focus has been on offensive language and LLM safety, and I'm really interested in any NLP task involving Korean language.
+
+  ⚠️ 박사 과정 수료 후 (2027년 이후) 박사 후 전문연구요원 편입을 희망합니다. 폭넓은 자연어처리 태스크를 깊이 있게 탐구할 준비가 되어 있습니다.
 
 content:
   - title:   
