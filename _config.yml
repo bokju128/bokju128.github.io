@@ -52,7 +52,7 @@ content:
         quote: >
           EMNLP 2025 findings (first author)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+          
       - layout: top-middle
         title: "<span style='font-size:0.85em;'>Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models</span>"
         link: https://aclanthology.org/2025.acl-long.15/
@@ -60,7 +60,7 @@ content:
         quote: >
           ACL 2025 main conference (first author)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+          
       - layout: top-middle
         title: "<span style='font-size:0.85em;'>Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset</span>"
         link: https://aclanthology.org/2025.acl-srw.29/
@@ -68,7 +68,7 @@ content:
         quote: >
           ACL 2025 student research workshop (first author)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+          
       - layout: top-middle
         title: "<span style='font-size:0.85em;'>Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks</span>"
         link: https://aclanthology.org/2024.findings-naacl.219/
@@ -76,7 +76,7 @@ content:
         quote: >
           NAACL 2024 findings (first author)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
