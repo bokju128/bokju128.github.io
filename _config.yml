@@ -46,33 +46,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "<div style='font-size:0.7em; margin:0;'>From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</span>"
+        title: "<div style='font-size:0.7em; margin:0;'>From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</div>"
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</span>"
         quote: >
-          "<span style='margin:0;'>EMNLP 2025 findings (first author)</span>"
+          EMNLP 2025 findings (first author)
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
-        title: "<span style='font-size:0.7em;'>Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models</span>"
+        title: "<div style='font-size:0.7em; margin:0;'>Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models</div>"
         link: https://aclanthology.org/2025.acl-long.15/
-        link_text: "<span style='font-size:0.8em;'>Paper Website</span>"
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
           ACL 2025 main conference (first author)
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
-        title: "<span style='font-size:0.7em;'>Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset</span>"
+        title: "<div style='font-size:0.7em; margin:0;'>Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset</div>"
         link: https://aclanthology.org/2025.acl-srw.29/
-        link_text: "<span style='font-size:0.8em;'>Paper Website</span>"
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
           ACL 2025 student research workshop (first author)
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
-        title: "<span style='font-size:0.7em;'>Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks</span>"
+        title: "<div style='font-size:0.7em; margin:0;'>Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks</div>"
         link: https://aclanthology.org/2024.findings-naacl.219/
-        link_text: "<span style='font-size:0.8em;'>Paper Website</span>"
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
           NAACL 2024 findings (first author)
         # description: | # this will include new lines to allow paragraphs
