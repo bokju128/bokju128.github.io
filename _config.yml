@@ -50,7 +50,7 @@ content:
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</span>"
         quote: >
-          "<div style='line-height:0.7; margin:0;'>EMNLP 2025 findings (first author)</span>"
+          "<span style='margin:0;'>EMNLP 2025 findings (first author)</span>"
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
