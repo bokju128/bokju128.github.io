@@ -46,7 +46,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "<div style='font-size:0.7em; margin:0;'>From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</div>"
+        title: "<div style='font-size:0.8em; margin:0;'>From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</div>"
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
@@ -54,7 +54,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
-        title: "<div style='font-size:0.7em; margin:0;'>Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models</div>"
+        title: "<div style='font-size:0.8em; margin:0;'>Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models</div>"
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
@@ -62,7 +62,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
-        title: "<div style='font-size:0.7em; margin:0;'>Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset</div>"
+        title: "<div style='font-size:0.8em; margin:0;'>Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset</div>"
         link: https://aclanthology.org/2025.acl-srw.29/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
@@ -70,7 +70,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
-        title: "<div style='font-size:0.7em; margin:0;'>Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks</div>"
+        title: "<div style='font-size:0.8em; margin:0;'>Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks</div>"
         link: https://aclanthology.org/2024.findings-naacl.219/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
