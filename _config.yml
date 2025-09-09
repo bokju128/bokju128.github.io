@@ -15,7 +15,7 @@ title: NLP Researcher
 darkmode: never
 
 # Social links
-github_username:  seungukyu
+github_username: seungukyu
 linkedin_username: seungukyu
 
 # Additional icon links
@@ -46,10 +46,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "<span style='font-size:0.7em; line-height:0.9; margin:0;'>From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</span>"
+        title: "<span style='font-size:0.7em; line-height:0.5; margin:0;'>From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</span>"
         link: https://aclanthology.org/2025.acl-long.15/
-        link_text: "<span style='font-size:0.8em; line-height:0.9; margin:0;'>Paper Website</span>"
-        quote: "<span style='line-height:0.9; margin:0;'>EMNLP 2025 findings (first author)</span>"
+        link_text: "<span style='font-size:0.8em; line-height:0.5; margin:0;'>Paper Website</span>"
+        quote: "<span style='line-height:0.5; margin:0;'>EMNLP 2025 findings (first author)</span>"
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
