@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: From Ground Trust to Truth Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse
+        title: "<span style='font-size:0.9em;'>From Ground Trust to Truth Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</span>"
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: Paper Website
         quote: >
